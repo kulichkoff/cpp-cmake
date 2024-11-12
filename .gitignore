@@ -1,0 +1,6 @@
+# Build folders
+build/
+out/
+
+# OSX 
+**/.DS_STORE
